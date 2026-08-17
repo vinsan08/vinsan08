@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jesuvinsanraj A</h1>
 
-<h3 align="center">🤖 AI Developer | 📊 Data | 🔐 Cybersecurity | ☁️ Cloud | 🐍 Python</h3>
+<h3 align="center">🤖 AI Developer | 📊 Data & Analytics | 🔐 Cybersecurity | ☁️ Google Cloud & Cloud Security | 🐍 Python</h3>
 
 <p align="center">
   Building intelligent systems using Machine Learning, Deep Learning & Generative AI.
