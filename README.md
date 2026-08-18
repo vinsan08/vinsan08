@@ -195,6 +195,7 @@ AI-powered project focused on detecting and verifying potentially manipulated or
     width="97%"
   />
 </div>
+----
 <h3 align="center">🚀 AI • ML • Data • Cybersecurity • Cloud</h3>
 
 <p align="center">
