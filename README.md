@@ -185,6 +185,9 @@ AI-powered project focused on detecting and verifying potentially manipulated or
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinsan08&theme=tokyo-night" alt="Vinsan's Contribution Graph"/>
 </p>
 
+
+---
+
 <div align="center">
   <img
     src="https://raw.githubusercontent.com/vinsan08/vinsan08/output/github-contribution-grid-snake.svg"
@@ -192,8 +195,6 @@ AI-powered project focused on detecting and verifying potentially manipulated or
     width="97%"
   />
 </div>
----
-
 <h3 align="center">🚀 AI • ML • Data • Cybersecurity • Cloud</h3>
 
 <p align="center">
