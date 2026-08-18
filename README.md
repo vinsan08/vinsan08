@@ -136,11 +136,12 @@ Web application for renting cars and bikes with authentication, bookings, host m
 
 **Tech:** Python • MongoDB • Web Development
 
-### 🕵️ Deepfake Detector
+### 🕵️ **Verity AI**
 
-Deep learning-based project focused on detecting manipulated and deepfake media.
+AI-powered project focused on detecting and verifying potentially manipulated or misleading digital content.
 
-**Tech:** Python • Deep Learning • Computer Vision
+**Tech:** Python • Artificial Intelligence • Machine Learning • Computer Vision
+
 
 ---
 
