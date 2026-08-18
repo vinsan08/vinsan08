@@ -141,6 +141,7 @@ Web application for renting cars and bikes with authentication, bookings, host m
 AI-powered project focused on detecting and verifying potentially manipulated or misleading digital content.
 
 **Tech:** Python • Artificial Intelligence • Machine Learning • Computer Vision
+**GitHub repository link** : https://github.com/vinsan08/verity-ai?utm_source=chatgpt.com
 
 
 ---
