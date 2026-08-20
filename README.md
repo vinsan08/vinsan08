@@ -12,7 +12,14 @@
 </p>
 
 ---
-
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/vinsan08/vinsan08/output/github-contribution-grid-snake.svg"
+    alt="Snake Contribution Graph"
+    width="97%"
+  />
+</div>
+---
 ## 🚀 About Me
 
 * 🔭 I’m currently working on **AI/ML projects & EV Charging Management System**
@@ -188,14 +195,6 @@ AI-powered project focused on detecting and verifying potentially manipulated or
 
 ---
 
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/vinsan08/vinsan08/output/github-contribution-grid-snake.svg"
-    alt="Snake Contribution Graph"
-    width="97%"
-  />
-</div>
-----
 <h3 align="center">🚀 AI • ML • Data • Cybersecurity • Cloud</h3>
 
 <p align="center">
