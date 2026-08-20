@@ -7,6 +7,8 @@
   Passionate about solving real-world problems through AI, data, cybersecurity, and innovative technology projects.
 </p>
 
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vinsan08&label=Profile%20Views&color=0e75b6&style=flat" alt="vinsan08" />
 </p>
@@ -19,7 +21,11 @@
     width="97%"
   />
 </div>
+
+
 ---
+
+
 ## 🚀 About Me
 
 * 🔭 I’m currently working on **AI/ML projects & EV Charging Management System**
